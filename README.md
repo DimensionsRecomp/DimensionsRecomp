@@ -1,5 +1,5 @@
 # LEGO Dimensions Recompiled
-A WIP unofficial PC Port of LEGO Dimensions. LEGO Dimensions has been made for multiple platforms. These platforms are Wii U, PlayStation 3, Xbox 360, PlayStation 4, and Xbox One.
+A WIP unofficial PC Port of LEGO Dimensions. LEGO Dimensions has been made for multiple platforms. These platforms are Wii U, PlayStation 3, Xbox 360, PlayStation 4, and Xbox One. **This project does not include assets and must be supplied by you from a legal copy of LEGO Dimensions to build.**
 
 # The Goal Of This Project
 Our main goal is to decompile the game as much as we can. When the recomp is fully completed and verified working, we'll work on making the game to work on PC and update this file to include compiling steps for the port.
